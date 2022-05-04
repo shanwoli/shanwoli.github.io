@@ -1,0 +1,271 @@
+/*--the header section--*/
+
+.Top {
+  background-color: white;
+}
+
+.Top-img {
+  width: 320PX;
+  height: 220PX;
+}
+
+.Topper {
+  height: 60PX;
+  background-color: #000;
+}
+
+.Topper-Wr {
+  color: white;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 700;
+  padding-top: 10px;
+  margin-left: 110px;
+}
+
+.Topper-Wr:hover {
+  background-color: #00AFC1;
+}
+
+
+.middle-between {
+  position: relative;
+  Left: 700px;
+  bottom: 200px;
+  backdrop-filter: blur(2px);
+}
+
+.middle-between-writing {
+  font-size: 50px;
+}
+
+.middle-between-writing2 {
+  font-size: 50px;
+  position: relative;
+  right: 90PX;
+}
+
+#image1 {
+  height: 750px;
+  width: 1900px
+}
+
+.op {
+  margin-left: 40%;
+  height: 132px;
+  width: 350px;
+}
+
+/*--the middle section--*/
+.container-fluid {
+  padding: 30px;
+}
+
+/*--the first content section--*/
+
+#container-fluid-categories {
+  background-color: #00AFC1;
+  font-size: 25px;
+  margin-left: 40px;
+  margin-right: 500px;
+  padding-left: 10px;
+}
+
+.table-light{
+  table-layout: auto;
+  border: none;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  margin-right: 300px;
+
+}
+
+.img123 {
+  height: 86px;
+  width: 120px;
+}
+
+.first {
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.court{
+  width: 100px;
+  height: 60px;
+}
+.second {
+  margin-right: 400px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.third {
+  font-size: 20px;
+  padding-left: 20px;
+}
+.aasc{
+  width: 100px;
+  height: 60px;
+}
+
+.fourth {
+  padding-right: 400px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+/*--the load more button section--*/
+.more-btn {
+  color: darkred;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.private {
+  background-color: #00AFC1;
+  margin-left: 40px;
+  margin-right: 500px;
+  padding-left: 10px;
+}
+
+/*--the second content section--*/
+#private-jobs {
+  font-size: 25px;
+}
+
+.govt{
+  text-decoration: underline;
+  color: #4D96FF;
+}
+
+.img-first {
+  margin-right: 10px;
+  margin-left: 15px;
+}
+
+.img-first1 {
+  margin-left: 15px;
+}
+
+
+.Table-first {
+  margin-right: 15px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+.table-second {
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 50px;
+}
+.img-first1{
+  margin: 0 10px 0 10px;
+}
+.table-fourth {
+  padding-right:50px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.table-second-2 {
+  margin-right: 400px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.table-fourth-2{
+  padding-right: 400px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+/*--latest news button--*/
+
+#latest-news {
+  background-color: Blue;
+  color: white;
+  position: absolute;
+  left: 1000px;
+  bottom: 800px;
+}
+
+.Intro {
+  width: 1250px;
+  right: 100px;
+  padding-top: 50px;
+  padding-left: 100px;
+}
+
+.container-fluid-description {
+  padding-top: 50px;
+}
+
+/*-------the upsc page-------*/
+#header-upsc {
+  font-size: 4rem;
+}
+span{
+  line-height: 2;
+}
+h2{
+  font-size: 2.5rem;
+}
+.header3 {
+  font-size: 2rem;
+}
+
+.details {
+  font-size: 1.5rem;
+  padding: 10px;
+}
+/*------the AASC page------*/
+
+.container-fluid{
+  margin-left: 20px;
+}
+.Intro{
+  right: 100px;
+  padding-left: 30px;
+  padding-right: 300px;
+}
+.header-aasc{
+  font-size: 1.5rem;
+}
+.aasc2{
+  width: 300px;
+  height: 270px;
+}
+h4{
+  font-size: 1.3rem;
+  display: inline;
+}
+.details2{
+  font-size: 1.2rem;
+}
+#age{
+  line-height: 30px;
+}
+ .table-aasc tr, th, td{
+  border: 2px solid black;
+  padding: 20px;
+  text-align: center;
+}
+.heading{
+  font-size: 1.5rem;
+}
+/*------the upse syllabus-------*/
+.syllabus{
+  margin: 10px 0 auto 0;
+  padding: 10px;
+  text-decoration: underline;
+}
+.fooder-sec{
+  height: 300px;
+  width: auto;
+  padding: 60px;
+  background-color: black;
+}
+.Court{
+  width: 120px;
+  height: 86px;
+}
